@@ -1,5 +1,7 @@
 # My Projects
-Nesse repositório você pode encontrar todos os projetos que já realizei separados pelos seguintes tópicos: 
+🇧🇷 Nesse repositório você pode encontrar todos os projetos que já realizei separados pelos seguintes tópicos:
+
+:us: In this repository you can find all the projects I've done, separated by the following topics:
   - [**Projetos Iniciantes**](#projetos-iniciantes)
   - [**Front-End**](#front-end)
   - [**Back-End**](#back-end)
