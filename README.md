@@ -35,6 +35,22 @@ _________________________________________
 
   * [GitHub Repo](https://github.com/juan-formoso/pixels-art-project)
 
+### Zoo Functions
+:brazil: Sistema de gerenciamento de um zoológico com JavaScript. :us: Zoo management system with JavaScript
+  > JavaScript ES6
+  
+  > Agosto de 2021 || August 2021
+
+  * [GitHub Repo](https://github.com/juan-formoso/zoo-functions-project)
+
+### Unit Tests
+:brazil: Desenvolvimento de Testes Unitários com Jest. :us: Development of Unit Tests with Jest.
+  > JavaScript ES6
+  
+  > Agosto de 2021 || August 2021
+
+  * [GitHub Repo](https://github.com/juan-formoso/unit-tests-project)
+
 ### Error Page
 :brazil: Design de página de erro "404" feita com HTML e CSS. :us: 404 error page design using Html and CSS.
   > HTML5, CSS3
@@ -42,6 +58,14 @@ _________________________________________
   > Novembro de 2021 || November 2021
 
   * [GitHub Repo](https://github.com/juan-formoso/error-page)
+
+### Digital Clock
+:brazil: Como fazer um relógio digital com JavaScript. :us: How to make a digital clock with JavaScript.
+  > HTML5, CSS3, JavaScript
+  
+  > Novembro de 2021 || November 2021
+
+  * [GitHub Repo](https://github.com/juan-formoso/digital_clock)
 
 ------------------------------------
 
