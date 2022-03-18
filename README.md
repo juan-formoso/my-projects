@@ -2,10 +2,10 @@
 🇧🇷 Nesse repositório você pode encontrar todos os projetos que já realizei separados pelos seguintes tópicos:
 
 :us: In this repository you can find all the projects I've done, separated by the following topics:
-  - [**Projetos Iniciantes**](#projetos-iniciantes)
+  - [**Projetos Iniciantes (Beginner Projects)**](#projetos-iniciantes)
   - [**Front-End**](#front-end)
   - [**Back-End**](#back-end)
-  - [**Outros**](#outros)
+  - [**Outros (Others)**](#outros)
 
 _________________________________________
 
