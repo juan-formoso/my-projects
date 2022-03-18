@@ -44,12 +44,20 @@ _________________________________________
   * [GitHub Repo](https://github.com/juan-formoso/zoo-functions-project)
 
 ### Unit Tests
-:brazil: Desenvolvimento de Testes Unitários com Jest. :us: Development of Unit Tests with Jest.
+:brazil: Desenvolvimento de funções em JavaScript para cumprir testes unitários. :us: Development of JavaScript functions to fulfill unit tests.
   > JavaScript ES6
   
   > Agosto de 2021 || August 2021
 
   * [GitHub Repo](https://github.com/juan-formoso/unit-tests-project)
+
+### Jest
+:brazil: Implementação de testes com Jest e JavaScript. :us: Implementation of tests with Jest and JavaScript.
+  > JavaScript ES6, Jest
+  
+  > Agosto de 2021 || August 2021
+
+  * [GitHub Repo](https://github.com/juan-formoso/jest-project)
 
 ### Error Page
 :brazil: Design de página de erro "404" feita com HTML e CSS. :us: 404 error page design using Html and CSS.
