@@ -11,11 +11,37 @@ _________________________________________
 
 ## Projetos Iniciantes
 
-### Nome do projeto 1
-Explicação
+### Lessons Learned
+:brazil: Meu primeiro projeto. :us: My first project
+  > HTML5, CSS3
+  
+  > Junho de 2021 || June 2021
+  
+  * [Github Repo](https://github.com/juan-formoso/lessons-learned-project)
 
-### Nome do projeto 2
-Explicação
+### Playground Functions
+:brazil: Funções e lógica de programação com JavaScript. :us: Functions and problem solving with JavaScript
+  > JavaScript
+  
+  > Julho de 2021 || July 2021
+
+  * [GitHub Repo](https://github.com/juan-formoso/playground-functions-project)
+
+### Pixel Art
+:brazil: Projeto de Arte em Pixels. :us: Color Picker Project
+  > HTML5, CSS3, JavaScript
+  
+  > Julho de 2021 || July 2021
+
+  * [GitHub Repo](https://github.com/juan-formoso/pixels-art-project)
+
+### Error Page
+:brazil: Design de página de erro "404" feita com HTML e CSS. :us: 404 error page design using Html and CSS.
+  > HTML5, CSS3
+  
+  > Novembro de 2021 || November 2021
+
+  * [GitHub Repo](https://github.com/juan-formoso/error-page)
 
 ------------------------------------
 
