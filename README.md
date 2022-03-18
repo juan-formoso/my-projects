@@ -139,7 +139,7 @@ _________________________________________
 :brazil: Front-End que consome dados de uma API sobre Stranger Things. :us: Front-End that consumes data from an API about Stranger Things
   > React, GitHub Actions, Heroku
   
-  > Fevereiro de 2021 || February 2022
+  > Fevereiro de 2022 || February 2022
 
   * [GitHub Repo](https://github.com/juan-formoso/stranger-things-frontend-project)
 
@@ -147,18 +147,14 @@ _________________________________________
 
 ## Back End
 
-### Nome do projeto 1
-Explicação
+### Docker Todo List
+:brazil: Aplicação de uma lista todo com Docker. :us: Docker Todo List Application.
+  > React, Context API, CSS3, HTML5, Javascript ES6, Docker, Docker Compose
+  
+  > Dezembro de 2021 || December 2021
 
-### Nome do projeto 2
-Explicação
+  * [GitHub Repo](https://github.com/juan-formoso/docker-todo-list-project)
 
 ------------------------------------
 
 ## Outros
-
-### Nome do projeto 1
-Explicação
-
-### Nome do projeto 2
-Explicação
