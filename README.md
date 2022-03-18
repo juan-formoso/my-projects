@@ -34,6 +34,14 @@ _________________________________________
   > Julho de 2021 || July 2021
 
   * [GitHub Repo](https://github.com/juan-formoso/pixels-art-project)
+ 
+### Todo App
+:brazil: Lista de Tarefas. :us: Todo App
+  > HTML5, CSS3, JavaScript
+  
+  > Julho de 2021 || July 2021
+
+  * [GitHub Repo](https://github.com/juan-formoso/todo-app-project)
 
 ### Zoo Functions
 :brazil: Sistema de gerenciamento de um zoológico com JavaScript. :us: Zoo management system with JavaScript
@@ -74,6 +82,30 @@ _________________________________________
   > Novembro de 2021 || November 2021
 
   * [GitHub Repo](https://github.com/juan-formoso/digital_clock)
+
+### CSS Morphing Effect Model
+:brazil: Efeito de transformação com CSS. :us: Morphing Effect with CSS
+  > HTML5, CSS3
+  
+  > Novembro de 2021 || November 2021
+
+  * [GitHub Repo](https://github.com/juan-formoso/css-morhping-effect-model)
+
+### Restaurant Shell
+:brazil: Sistema de gerenciamento de um restaurante fast food. :us: Fast food restaurant management system
+  > Shell Script
+  
+  > Dezembro de 2021 || December 2021
+
+  * [GitHub Repo](https://github.com/juan-formoso/restaurant-shell-project)
+
+### Budget Calculator
+:brazil: Calculadora de Gastos. :us: Budget Calculator
+  > HTML5, CSS3, JavaScript ES6
+  
+  > Janeiro de 2022 || Jan 2022
+
+  * [GitHub Repo](https://github.com/juan-formoso/budget-calc-project)
 
 ------------------------------------
 
