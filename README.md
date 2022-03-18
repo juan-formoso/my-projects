@@ -103,7 +103,7 @@ _________________________________________
 :brazil: Calculadora de Gastos. :us: Budget Calculator
   > HTML5, CSS3, JavaScript ES6
   
-  > Janeiro de 2022 || Jan 2022
+  > Janeiro de 2022 || January 2022
 
   * [GitHub Repo](https://github.com/juan-formoso/budget-calc-project)
 
@@ -111,11 +111,37 @@ _________________________________________
 
 ## Front End
 
-### Nome do projeto 1
-Explicação
+### React Testing Library
+:brazil: Projeto de Pokedex com React Testing Library. :us: Pokedex with React Testing Library Project
+  > React, Jest, React Testing Library, JavaScript ES6
+  
+  > Outubro de 2021 || October 2022
 
-### Nome do projeto 2
-Explicação
+  * [GitHub Repo](https://github.com/juan-formoso/react-testing-library-project)
+
+### Trivia Game
+:brazil: Projeto jogo de Trivia. :us: Trivia Game Project
+  > React, HTML5, CSS3, JavaScript ES6, Redux
+  
+  > Outubro de 2021 || October 2022
+
+  * [GitHub Repo](https://github.com/juan-formoso/trivia-game-project)
+
+### Crypto Price Tracker
+:brazil: App de Cryptocurrencies. :us: Cryptocurrencies Price Tracker
+  > React, React Hooks, Axios, HTML5, CSS3, JavaScript ES6
+  
+  > Janeiro de 2021 || Janauary 2022
+
+  * [GitHub Repo](https://github.com/juan-formoso/crypto-price-tracker-project)
+
+### Stranger Things
+:brazil: Front-End que consome dados de uma API sobre Stranger Things. :us: Front-End that consumes data from an API about Stranger Things
+  > React, GitHub Actions, Heroku
+  
+  > Fevereiro de 2021 || February 2022
+
+  * [GitHub Repo](https://github.com/juan-formoso/stranger-things-frontend-project)
 
 ------------------------------------
 
