@@ -230,3 +230,75 @@ _________________________________________
 ------------------------------------
 
 ## Outros
+
+### Alan AI News App
+:brazil: Aplicação de Notícias baseada na Inteligência Artificial "Alan" desenvolvida com React e JavaScript. :us: News application based on Artificial Intelligence "Alan" developed with React and JavaScript.
+  > React, CSS3, HTML5, JavaScript ES6, Alan AI
+  
+  > Janeiro de 2022 || January 2022
+
+  * [GitHub Repo](https://github.com/juan-formoso/alan_ai_news_application)
+
+### Trybe Exercises
+:brazil: Exercícios realizados na Trybe. :us: Exercises requested by Trybe.
+  > JavaScript ES6, CSS3, HTML5, React.js, Jest
+  
+  > Junho de 2021 até Setembro de 2021 || June 2021 to September 2021
+
+  * [GitHub Repo](https://github.com/juan-formoso/trybe-exercises)
+
+### Backend Exercises
+:brazil: Exercícios de Backend realizados na Trybe. :us: Backend exercises requested at Trybe
+  > Docker, SQL, Node.js, Express, Heroku, Typescript, ORM Sequelize, Mocha, Chai, Sinon, Postman, ThunderClient, JsonWebToken
+  
+  > Junho de 2021 até agora || November 2021 until now
+
+  * [GitHub Repo](https://github.com/juan-formoso/backend-exercises)
+
+### JavaScript Tips
+:brazil: Truques para JavaScript. :us: Tips and Tricks for JavaScript.
+  > JavaScript
+  
+  > Novembro de 2021 até Março de 2022 || November 2021 until March 2022
+
+  * [GitHub Repo](https://github.com/juan-formoso/python-tips)
+
+### Python Tips
+:brazil: Truques para Python. :us: Tips and Tricks for Python.
+  > Python
+  
+  > Novembro de 2021 até Dezembro de 2021 || November 2021 until December 2021
+
+  * [GitHub Repo](https://github.com/juan-formoso/python-tips)
+
+### Go Class
+:brazil: Truques para Python. :us: Tips and Tricks for Python.
+  > Golang
+  
+  > Dezembro de 2021 || December 2021
+
+  * [GitHub Repo](https://github.com/juan-formoso/go-class)
+
+### Programming Logic Course
+:brazil: Anotações sobre Lógica de Programação. :us: Notes about Programming logic
+  > Python
+  
+  > Dezembro de 2021 || December 2021
+
+  * [GitHub Repo](https://github.com/juan-formoso/programming-logic-course)
+
+### Problem Solving Hackerrank
+:brazil: Respostas Hackerrank Resolução de Problemas. :us: Answers Hackerrank Problem Solving.
+  > JavaScript ES6, Python3
+  
+  > Dezembro de 2021 até agora || December 2021 until now
+
+  * [GitHub Repo](https://github.com/juan-formoso/problem-solving-hackerrank)
+
+### Personal Portfolio
+:brazil: Meu portfólio pessoal. :us: My personal portfolio.
+  > HTML5, CSS3, JavaScript ES6, SCSS, jQuery
+  
+  > Fevereiro de 2022 || February 2022
+
+  * [GitHub Repo](https://github.com/juan-formoso/alan_ai_news_application)
