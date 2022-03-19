@@ -155,6 +155,78 @@ _________________________________________
 
   * [GitHub Repo](https://github.com/juan-formoso/docker-todo-list-project)
 
+### All for One
+:brazil: Projeto em MySQL com banco de dados. :us: MySQL Database Project
+  > MySQL
+  
+  > Dezembro de 2021 || December 2021
+
+  * [GitHub Repo](https://github.com/juan-formoso/all-for-one-project)
+
+### Talker Manager
+:brazil: API CRUD feita com Node.js and Express. :us: CRUD API using Node.js and Express
+  > Node.js, Express, Nodemon
+  
+  > Janeiro de 2022 || January 2022
+
+  * [GitHub Repo](https://github.com/juan-formoso/talker-manager-project)
+
+### Store Manager
+:brazil: API CRUD e RESTFUL usando Node.JS com testes. :us: CRUD and RESTFUL API using Node.JS with Tests
+  > Node.js, Express, MySQL, Postman, Mocha, Chai, Sinon
+  
+  > Feveiro de 2022 || February 2022
+
+  * [GitHub Repo](https://github.com/juan-formoso/talker-manager-project)
+
+### Store Manager
+:brazil: API CRUD e RESTFUL usando Node.JS com testes. :us: CRUD and RESTFUL API using Node.JS with Tests
+  > Node.js, Express, MySQL, Postman, Mocha, Chai, Sinon
+  
+  > Feveiro de 2022 || February 2022
+
+  * [GitHub Repo](https://github.com/juan-formoso/store-manager-project)
+
+### Stranger Things
+:brazil: Back-End que fornece dados sobre Stranger Things para um Front-end. :us: Back-End that provides data about Stranger Things to a Front-end App
+  > Node.js, Express, Docker, Github Actions, Heroku, Postman
+  
+  > Fevereiro de 2022 || February 2022
+
+  * [GitHub Repo](https://github.com/juan-formoso/stranger-things-backend-project)
+
+### Blogs API
+:brazil: CRUD API de Posts utilizando Node.js e Sequelize. :us: Posts CRUD API using Sequelize and Node.js
+  > Node.js, Express, ORM Sequelize, JsonWebToken, Thunder Client
+  
+  > Fevereiro de 2022 || February 2022
+
+  * [GitHub Repo](https://github.com/juan-formoso/blogs-api-project)
+
+### Trybesmith
+:brazil: CRUD API usando TypeScript e Express. :us: CRUD API using Typescript and Express
+  > Node.js, Express, Typescript
+  
+  > Março de 2022 || March 2022
+
+  * [GitHub Repo](https://github.com/juan-formoso/trybesmith-project)
+
+### Trybers and Dragons
+:brazil: Estrutura de um jogo de RPG com POO e SOLID. :us: Sructure of an RPG Game using OOP and SOLID
+  > Typescript Orientado à Objetos
+  
+  > Março de 2022 || March 2022
+
+  * [GitHub Repo](https://github.com/juan-formoso/trybers-and-dragons-project)
+
+### Web Scraper API
+:brazil: API de Web Scraping utilizando Typescript, Node e Express. :us: Web Scraper API using Typescript, Node and Express.
+  > Typescript, Node.js, Express, PlanetScale, MySQL, Cheerio, Axios
+  
+  > Março de 2022 || March 2022
+
+  * [GitHub Repo](https://github.com/juan-formoso/web-scraper-project)
+
 ------------------------------------
 
 ## Outros
