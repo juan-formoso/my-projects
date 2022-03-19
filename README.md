@@ -179,14 +179,6 @@ _________________________________________
 
   * [GitHub Repo](https://github.com/juan-formoso/talker-manager-project)
 
-### Store Manager
-:brazil: API CRUD e RESTFUL usando Node.JS com testes. :us: CRUD and RESTFUL API using Node.JS with Tests
-  > Node.js, Express, MySQL, Postman, Mocha, Chai, Sinon
-  
-  > Feveiro de 2022 || February 2022
-
-  * [GitHub Repo](https://github.com/juan-formoso/store-manager-project)
-
 ### Stranger Things
 :brazil: Back-End que fornece dados sobre Stranger Things para um Front-end. :us: Back-End that provides data about Stranger Things to a Front-end App
   > Node.js, Express, Docker, Github Actions, Heroku, Postman
