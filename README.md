@@ -115,7 +115,7 @@ _________________________________________
 :brazil: Projeto de Pokedex com React Testing Library. :us: Pokedex with React Testing Library Project
   > React, Jest, React Testing Library, JavaScript ES6
   
-  > Outubro de 2021 || October 2022
+  > Outubro de 2021 || October 2021
 
   * [GitHub Repo](https://github.com/juan-formoso/react-testing-library-project)
 
@@ -123,7 +123,7 @@ _________________________________________
 :brazil: Projeto jogo de Trivia. :us: Trivia Game Project
   > React, HTML5, CSS3, JavaScript ES6, Redux
   
-  > Outubro de 2021 || October 2022
+  > Outubro de 2021 || October 2021
 
   * [GitHub Repo](https://github.com/juan-formoso/trivia-game-project)
 
@@ -131,7 +131,7 @@ _________________________________________
 :brazil: App de Cryptocurrencies. :us: Cryptocurrencies Price Tracker
   > React, React Hooks, Axios, HTML5, CSS3, JavaScript ES6
   
-  > Janeiro de 2021 || Janauary 2022
+  > Janeiro de 2022 || Janauary 2022
 
   * [GitHub Repo](https://github.com/juan-formoso/crypto-price-tracker-project)
 
@@ -251,7 +251,7 @@ _________________________________________
 :brazil: Exercícios de Backend realizados na Trybe. :us: Backend exercises requested at Trybe
   > Docker, SQL, Node.js, Express, Heroku, Typescript, ORM Sequelize, Mocha, Chai, Sinon, Postman, ThunderClient, JsonWebToken
   
-  > Junho de 2021 até agora || November 2021 until now
+  > Novembro de 2021 até agora || November 2021 until now
 
   * [GitHub Repo](https://github.com/juan-formoso/backend-exercises)
 
