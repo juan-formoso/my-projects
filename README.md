@@ -177,7 +177,7 @@ _________________________________________
   
   > Feveiro de 2022 || February 2022
 
-  * [GitHub Repo](https://github.com/juan-formoso/talker-manager-project)
+  * [GitHub Repo](https://github.com/juan-formoso/store-manager-project)
 
 ### Stranger Things
 :brazil: Back-End que fornece dados sobre Stranger Things para um Front-end. :us: Back-End that provides data about Stranger Things to a Front-end App
