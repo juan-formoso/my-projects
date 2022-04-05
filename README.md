@@ -253,7 +253,7 @@ _________________________________________
   
   > Novembro de 2021 até Março de 2022 || November 2021 until March 2022
 
-  * [GitHub Repo](https://github.com/juan-formoso/python-tips)
+  * [GitHub Repo](https://github.com/juan-formoso/javascript_tips)
 
 ### Python Tips
 :brazil: Truques para Python. :us: Tips and Tricks for Python.
@@ -261,7 +261,7 @@ _________________________________________
   
   > Novembro de 2021 até Dezembro de 2021 || November 2021 until December 2021
 
-  * [GitHub Repo](https://github.com/juan-formoso/python-tips)
+  * [GitHub Repo](https://github.com/juan-formoso/python_tips)
 
 ### Go Class
 :brazil: Truques para Python. :us: Tips and Tricks for Python.
