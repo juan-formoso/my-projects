@@ -219,6 +219,14 @@ _________________________________________
 
   * [GitHub Repo](https://github.com/juan-formoso/web-scraper-project)
 
+### MongoDB Commerce
+:brazil: Manipulação de um banco de dados de comércio utilizando MQL(Mongo Query Language). :us: Commerce Database manipulation using MQL(Mongo Query Language).
+  > MongoDB, JavaScript ES6, Shell Script
+  
+  > Abril de 2022 || April 2022
+
+  * [GitHub Repo](https://github.com/juan-formoso/mongodb-commerce-project)
+
 ------------------------------------
 
 ## Outros
