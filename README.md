@@ -272,7 +272,7 @@ _________________________________________
   * [GitHub Repo](https://github.com/juan-formoso/python_tips)
 
 ### Go Class
-:brazil: Truques para Python. :us: Tips and Tricks for Python.
+:brazil: Truques para Golang. :us: Tips and Tricks for Golang.
   > Golang
   
   > Dezembro de 2021 || December 2021
