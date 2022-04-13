@@ -239,6 +239,14 @@ _________________________________________
 
   * [GitHub Repo](https://github.com/juan-formoso/alan_ai_news_application)
 
+### Coronavirus Web Scraper
+:brazil: Web Scraper de dados sobre Coronavirus e assistente de voz com Python. :us: Coronavirus data web scraper and voice assistant with Python.
+  > Python, PyAudio, ParseHub
+  
+  > Abril de 2022 || April 2022
+
+  * [GitHub Repo](https://github.com/juan-formoso/coronavirus-webscraper-project)
+
 ### Trybe Exercises
 :brazil: Exercícios realizados na Trybe. :us: Exercises requested by Trybe.
   > JavaScript ES6, CSS3, HTML5, React.js, Jest
