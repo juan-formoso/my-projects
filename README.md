@@ -247,6 +247,14 @@ _________________________________________
 
   * [GitHub Repo](https://github.com/juan-formoso/coronavirus-webscraper-project)
 
+### Youtube Downloader
+:brazil: Um script simples que baixa vídeos do YouTube usando Python :us: A simple script that download videos from YouTube using Python
+  > Python
+  
+  > Abril de 2022 || April 2022
+
+  * [GitHub Repo](https://github.com/juan-formoso/download-youtube-videos)
+
 ### Trybe Exercises
 :brazil: Exercícios realizados na Trybe. :us: Exercises requested by Trybe.
   > JavaScript ES6, CSS3, HTML5, React.js, Jest
