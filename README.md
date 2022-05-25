@@ -227,6 +227,14 @@ _________________________________________
 
   * [GitHub Repo](https://github.com/juan-formoso/mongodb-commerce-project)
 
+### Pizza Delivery API
+:brazil: Projeto de REST API de entrega de pizza desenvolvido durante meus estudos sobre Flask e Python. :us: Pizza delivery REST API project developed during my studies on Flask and Python.
+  > Python, Flask, SQLAlchemy
+  
+  > Maio de 2022 || May 2022
+
+  * [GitHub Repo](https://github.com/juan-formoso/pizza-delivery-api)
+
 ------------------------------------
 
 ## Outros
@@ -267,9 +275,17 @@ _________________________________________
 :brazil: Exercícios de Backend realizados na Trybe. :us: Backend exercises requested at Trybe
   > Docker, SQL, Node.js, Express, Heroku, Typescript, ORM Sequelize, Mocha, Chai, Sinon, Postman, ThunderClient, JsonWebToken
   
-  > Novembro de 2021 até agora || November 2021 until now
+  > Novembro de 2021 até Maio de 2022 || November 2021 to May 2022
 
   * [GitHub Repo](https://github.com/juan-formoso/backend-exercises)
+
+### Computer Science Exercises
+:brazil: Exercícios realizados durante meus estudos de Ciência da Computação. :us: Exercises performed during my Computer Science studies
+  > Python
+  
+  > Maio de 2022 até agora || May 2022 until now
+
+  * [GitHub Repo](https://github.com/juan-formoso/computer-science-exercises)
 
 ### JavaScript Tips
 :brazil: Truques para JavaScript. :us: Tips and Tricks for JavaScript.
