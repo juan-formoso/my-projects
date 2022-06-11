@@ -5,6 +5,7 @@
   - [**Projetos Iniciantes (Beginner Projects)**](#projetos-iniciantes)
   - [**Front-End**](#front-end)
   - [**Back-End**](#back-end)
+  - [**Computer-Science**](#computer-science)
   - [**Outros (Others)**](#outros)
 
 _________________________________________
@@ -237,6 +238,26 @@ _________________________________________
 
 ------------------------------------
 
+## Computer Science
+
+### Coronavirus Web Scraper
+:brazil: Web Scraper de dados sobre Coronavirus e assistente de voz com Python. :us: Coronavirus data web scraper and voice assistant with Python.
+  > Python, PyAudio, ParseHub
+  
+  > Abril de 2022 || April 2022
+
+  * [GitHub Repo](https://github.com/juan-formoso/coronavirus-webscraper-project)
+
+### Job Insights
+:brazil: Projeto de análise de dados sobre empregos. Os dados foram extraídos do [Glassdoor](https://www.glassdoor.com.br/). :us: Data analysis project to get jobs insights. Data was extracted from [Glassdoor](https://www.glassdoor.com.br/).
+  > Python, Pytest, Flask
+  
+  > Junho de 2022 || June 2022
+
+  * [GitHub Repo](https://github.com/juan-formoso/job-insights-project)
+
+------------------------------------
+
 ## Outros
 
 ### Alan AI News App
@@ -246,14 +267,6 @@ _________________________________________
   > Janeiro de 2022 || January 2022
 
   * [GitHub Repo](https://github.com/juan-formoso/alan_ai_news_application)
-
-### Coronavirus Web Scraper
-:brazil: Web Scraper de dados sobre Coronavirus e assistente de voz com Python. :us: Coronavirus data web scraper and voice assistant with Python.
-  > Python, PyAudio, ParseHub
-  
-  > Abril de 2022 || April 2022
-
-  * [GitHub Repo](https://github.com/juan-formoso/coronavirus-webscraper-project)
 
 ### Youtube Downloader
 :brazil: Um script simples que baixa vídeos do YouTube usando Python :us: A simple script that download videos from YouTube using Python
