@@ -5,7 +5,7 @@
   - [**Projetos Iniciantes (Beginner Projects)**](#projetos-iniciantes)
   - [**Front-End**](#front-end)
   - [**Back-End**](#back-end)
-  - [**Computer-Science**](#computer-science)
+  - [**Ciência da Computação (Computer Science)**](#ciência-da-computação)
   - [**Outros (Others)**](#outros)
 
 _________________________________________
@@ -238,7 +238,7 @@ _________________________________________
 
 ------------------------------------
 
-## Computer Science
+## Ciência da Computação
 
 ### Coronavirus Web Scraper
 :brazil: Web Scraper de dados sobre Coronavirus e assistente de voz com Python. :us: Coronavirus data web scraper and voice assistant with Python.
